@@ -2,6 +2,8 @@
 As I am beginner in REACT JS, I wanted to learn how to create a react js page website.
 I want to share the result, the goal later for me is to build others websites pages with REACT JS.
 
+![appCover](./public/REACTJS-capture.gif)
+
 ## What is the use of this Repo
 
 This Project is a Simple ReactJS Project which demonstrates the following
