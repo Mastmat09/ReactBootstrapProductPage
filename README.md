@@ -16,7 +16,7 @@ This Project is a Simple ReactJS Project which demonstrates the following
 The project Template can be used to build bigger projects
 
 ## Live Application URL
-the demo wesite will be available on Github Page as soon as possible
+the demo website url will be available later
 
 ## Prerequisites
 You can install Git 
