@@ -1,4 +1,3 @@
-import Pic300 from "../../assets/300.jpg";
 import Fuji from "../../assets/camera-fuji.jpg";
 import Polaroid from "../../assets/polaroid.jpg";
 import Canon from "../../assets/canon.jpg";
