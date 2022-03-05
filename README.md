@@ -5,8 +5,9 @@ I want to share the result, the goal later for me is to build others websites pa
 ![appCover](./public/REACTJS-capture.gif)
 
 <br />
-SEE THE LIVE DEMO ON VERCEL
-https://react-bootstrap-product-page.vercel.app/
+
+
+[SEE THE LIVE DEMO ON VERCEL](https://react-bootstrap-product-page.vercel.app/){:target="_blank"}
 
 ## What is the use of this Repo
 
