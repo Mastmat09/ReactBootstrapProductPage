@@ -12,7 +12,7 @@ export const Header = () => {
                         <li className="nav-item"><a className="nav-link active" aria-current="page" href="#!">Home</a></li>
                         <li className="nav-item"><a className="nav-link" href="#!">About</a></li>
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
+                            <a className="nav-link dropdown-toggle" id="navbarDropdown" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
                             <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a className="dropdown-item" href="#!">All Products</a></li>
                                 <li><hr className="dropdown-divider" /></li>
