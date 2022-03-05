@@ -6,7 +6,7 @@ I want to share the result, the goal later for me is to build others websites pa
 
 <br />
 SEE THE LIVE DEMO ON VERCEL
-https://healthy-food-khaki.vercel.app/
+https://react-bootstrap-product-page.vercel.app/
 
 ## What is the use of this Repo
 
