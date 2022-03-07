@@ -25,7 +25,7 @@ export const RelatedProducts = () => {
                         </div>
                         
                         <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                            <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="">View options</a></div>
+                            <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="https://www.amazon.fr/">View options</a></div>
                         </div>
                     </div>
                 </div>
@@ -55,7 +55,7 @@ export const RelatedProducts = () => {
                             </div>
                            
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="https://www.amazon.fr/">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -85,7 +85,7 @@ export const RelatedProducts = () => {
                             </div>
                            
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="https://www.amazon.fr/">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@ export const RelatedProducts = () => {
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="https://www.amazon.fr/">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
