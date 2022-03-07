@@ -1,3 +1,4 @@
+
 import Fuji from "../../assets/camera-fuji.jpg";
 import Polaroid from "../../assets/polaroid.jpg";
 import Canon from "../../assets/canon.jpg";
@@ -24,7 +25,7 @@ export const RelatedProducts = () => {
                         </div>
                         
                         <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                            <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/">View options</a></div>
+                            <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="">View options</a></div>
                         </div>
                     </div>
                 </div>
@@ -48,13 +49,13 @@ export const RelatedProducts = () => {
                                         <div className="bi-star-fill"></div>
                                     </div>
                
-                                    <span className="text-muted text-decoration-line-through">$20.00</span>
+                                    <span className="text-muted text-decoration-line-through marginfixsmall">$20.00</span>
                                     $18.00
                                 </div>
                             </div>
                            
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -78,13 +79,13 @@ export const RelatedProducts = () => {
                                         <div className="bi-star-fill"></div>
                                     </div>
                
-                                    <span className="text-muted text-decoration-line-through">$20.00</span>
+                                    <span className="text-muted text-decoration-line-through marginfixsmall">$20.00</span>
                                     $18.00
                                 </div>
                             </div>
                            
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -111,7 +112,7 @@ export const RelatedProducts = () => {
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
